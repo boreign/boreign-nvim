@@ -74,6 +74,12 @@ Follow these steps to set up the configuration:
 <img width="1509" alt="Captura de Tela 2025-04-18 às 09 23 06" src="https://github.com/user-attachments/assets/6380fc2e-32d2-49c3-8c6b-d0e217a12524" />
 
 
+Doing the toggle:
+
+https://github.com/user-attachments/assets/da7c550f-1a13-41b4-b4cf-6bed118a8fa4
+
+
+
 ## Resources
 - [Lazy.nvim](https://github.com/folke/lazy.nvim)
 - [Nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
